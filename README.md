@@ -98,4 +98,5 @@ This dashboard simulates a retail sales controlling scenario and supports:
 ## Download
 
 You can download the full dashboard preview here:
-[Download PDF Preview](data-jobs-dashboard.pdf)
+[Download PDF Preview](retail-sales-performance-dashboard.pdf)
+
